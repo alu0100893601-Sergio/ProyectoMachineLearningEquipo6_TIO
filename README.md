@@ -19,5 +19,6 @@ Daniel Abreu García (alu0100898385@ull.edu.es)
 
 ### Enlaces externos
 
+<a href="https://drive.google.com/open?id=1e8iEIFt3lQbFrxYyJcis4C5Nc4C8GVyz" target="_blank">Memoria del proyecto</a>  
 [Memoria del proyecto](https://drive.google.com/open?id=1e8iEIFt3lQbFrxYyJcis4C5Nc4C8GVyz)  
 [Cuaderno de GoogleColab](https://colab.research.google.com/drive/15YuUCvUqTjNafKNhfB3LUacdAqJ1mwJP)  
